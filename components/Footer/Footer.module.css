@@ -1,0 +1,15 @@
+.footer {
+    color: var(--gray-footer);
+    text-decoration: none;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.footer:hover {
+    text-decoration: underline;
+    color: var(--gray-footer);
+}
